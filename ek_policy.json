@@ -1,0 +1,10 @@
+{
+  "version": "C_0.3",
+  "description": "Demonstrációs policy-réteg az EK prototípushoz.",
+  "mode": "precheck",
+  "blocked_terms": [
+    "PLACEHOLDER_BLOCKED_TERM"
+  ],
+  "ambiguous_action": "REVIEW_REQUIRED",
+  "note": "A lista szándékosan nem teljes; éles biztonsági rendszerhez külön moderációs réteg szükséges."
+}
